@@ -1,6 +1,6 @@
 {
-  "name": "deno-bin",
-  "version": "1.41.2",
+  "name": "@zuplo/deno-bin",
+  "version": "1.37.1",
   "description": "CLI wrapper for Deno, a secure runtime for JavaScript and TypeScript",
   "main": "index.js",
   "files": [
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/kt3k/deno-bin#readme",
   "dependencies": {
-    "adm-zip": "^0.5.4"
+    "adm-zip": "0.5.10"
   }
 }
